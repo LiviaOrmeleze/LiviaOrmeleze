@@ -12,4 +12,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=LiviaOrmeleze&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaOrmeleze&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+## 📊 Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaOrmeleze&layout=compact&theme=radical)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
